@@ -1,5 +1,5 @@
 - Hi there, I'm @HarimHidal! 👋
-- I'm an industrial engineer passionate about Industry 4.0 and AI. :computer:
+- I'm an industrial engineer passionate about Industry 4.0 and Data Science. :computer:
 - My motto is: "Engineering a better world through high-tech and human touch." :earth_americas:
 
 <!---
